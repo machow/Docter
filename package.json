@@ -8,7 +8,7 @@
 	"main": "./docter.js",
 	"bin" : { 
 		"docter" : "./docter.js",
-		"gfm" : "./bin/github-flavored-markdown.rb"
+		"gfm" : "./bin/gfm"
 		},
 	"dependencies": {
 	}
