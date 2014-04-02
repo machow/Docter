@@ -95,7 +95,7 @@ def fromMarkdown(text)
 		:autolink => true,
 		:strikethrough => true,
 		:lax_html_blocks => true,
-		:superscript => true,
+		#:superscript => true,
 		:hard_wrap => true,
 		:tables => true,
 		:xhtml => true)
